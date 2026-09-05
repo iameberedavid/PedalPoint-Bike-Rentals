@@ -171,7 +171,7 @@ This approach demonstrates a practical workflow for loading operational data int
 
 ---
 
-![Image_01](images/imae_01.png)
+![Image_01](images/image_01.png)
 
 ---
 
