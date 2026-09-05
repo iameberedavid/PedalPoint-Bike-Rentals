@@ -1,0 +1,11 @@
+bike_id,brand,bike_type,daily_rate,availability_status
+1,Trek,road,12.5,available
+2,Trek,road,12.5,undergoing maintenance
+3,Cannondale,mountain,15,available
+4,Cannondale,mountain,15,available
+5,Giant,electric,25,rented
+6,Giant,electric,25,available
+7,Specialized,road,14,available
+8,Specialized,mountain,16,undergoing maintenance
+9,Scott,electric,28,available
+10,Scott,road,11,available
