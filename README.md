@@ -171,6 +171,10 @@ This approach demonstrates a practical workflow for loading operational data int
 
 ---
 
+![Image_01](images/image_01.png)
+
+---
+
 ## 🔍 Data Quality Validation
 
 Following data ingestion, SQL-based validation will be performed to assess:
