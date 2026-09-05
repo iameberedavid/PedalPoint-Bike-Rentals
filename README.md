@@ -337,4 +337,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Important
 
-This project was developed to demonstrate practical skills in **relational database design, SQL, data quality, and business analysis**.
+**PedalPoint Bike Rentals** is a fictional bike rental business, and this entire project was developed to demonstrate practical skills in **relational database design, SQL, data quality, and business analysis**.
