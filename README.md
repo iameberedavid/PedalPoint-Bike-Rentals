@@ -1,4 +1,4 @@
-# PedalPoint Bike Rentals — Database & Table Creation
+# PedalPoint Bike Rentals — Database Creation, Table Design & Business Analysis
 
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)
 ![Database Design](https://img.shields.io/badge/Database%20Design-blue)
